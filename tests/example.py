@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
-from plot-helper import plot_plane_3d, plot_voxel_walls_3d, plot_fibres
+from plot_helper import plot_plane_3d, plot_voxel_walls_3d, plot_fibres
 from utils import *
 
 import time
