@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/utils.py
-src/fft_compositevoxel.egg-info/PKG-INFO
-src/fft_compositevoxel.egg-info/SOURCES.txt
-src/fft_compositevoxel.egg-info/dependency_links.txt
-src/fft_compositevoxel.egg-info/requires.txt
-src/fft_compositevoxel.egg-info/top_level.txt
