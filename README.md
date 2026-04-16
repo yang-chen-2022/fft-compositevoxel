@@ -1,2 +1,2 @@
 # fft-compositevoxel
-Prepare composite voxel input for FFT solvers
+Prepare composite voxel input for FFT simulations of fibre reinforced composites.
