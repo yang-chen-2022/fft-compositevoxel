@@ -141,7 +141,7 @@ class grid_spec:
         return np.stack([X.flatten(), Y.flatten(), Z.flatten()], axis=-1)
         
 
-def fibre_association(centers, x0, v, r):
+def fibre_association(centers, h_vec, x0, v, r):
     # --------------------------------------------------------
     # voxel vertices
     # --------------------------------------------------------

@@ -38,7 +38,7 @@ h_vec = np.array([grid.dx, grid.dy, grid.dz])
 ## associate voxels to the closest fibre ##
 ###########################################
 
-all_in, all_out, composite, idx_closest = fibre_association(centers, x0, v, r)
+all_in, all_out, composite, idx_closest = fibre_association(centers, h_vec, x0, v, r)
 matID = np.where(all_out, 0, idx_closest + 1)
 
 # visualise voxel centers colored by fibre association
